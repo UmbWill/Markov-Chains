@@ -2,6 +2,7 @@
 Markov chains without numy
 
 Based on the foobar challenge: doomsday_fuel
+
 This solution doesn't use numpy, so I have create my version of numpy. linalg. inv(), numpy.transpose(), numpy.dot.
 
 Making fuel for the LAMBCHOP's reactor core is a tricky process because of the exotic matter involved. It starts as raw ore, then during processing, begins randomly changing between forms, eventually reaching a stable form. There may be multiple stable forms that a sample could ultimately reach, not all of which are useful as fuel.
