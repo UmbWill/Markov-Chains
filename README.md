@@ -1,5 +1,5 @@
 # Markov-Chains
-Markov chains without numy
+Markov chains without numpy
 
 Based on the foobar challenge: doomsday_fuel
 
